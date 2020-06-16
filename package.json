@@ -1,0 +1,23 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pokemon.js",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaracsmith/pokemon.git"
+  },
+  "author": "Mayara Caldeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayaracsmith/pokemon/issues"
+  },
+  "homepage": "https://github.com/mayaracsmith/pokemon#readme"
+}
